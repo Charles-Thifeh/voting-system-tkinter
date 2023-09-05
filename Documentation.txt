@@ -1,0 +1,14 @@
+Systems to Create
+    Voting System
+    Overview System
+
+Voting System
+    Requirements
+        Database for Voters
+        Database for Aspirants
+        Taking the votes
+
+Overview System
+    Requirements
+        Aspirant Registration
+        Voters Registration
